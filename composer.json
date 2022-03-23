@@ -1,0 +1,21 @@
+{
+    "name": "zw/vimeno",
+    "require-dev": {
+        "guzzlehttp/guzzle": "^7.4",
+        "guzzlehttp/psr7": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zw\\Vimeno\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Streekomroep ZuidWest",
+            "email": "techniek@zuidwesttv.nl"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.0"
+    }
+}
