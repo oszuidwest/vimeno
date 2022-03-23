@@ -1,2 +1,2 @@
 # Vimeno
-Downloads all your video data from video. Doesn't download the files itself.
+Downloads all your video data from Vimeo. Doesn't download the files itself.
